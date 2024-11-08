@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>  
 
-## <div align="center">I'm Harish, a front-end and AI developer 👨‍💻 Student 🚀</div>  
+## <div align="center">I'm Harish, a Web scraper and AI developer 👨‍💻 Student 🚀</div>  
   
 
 - 🔭 I’m currently working on AI projects  
   
 
-- 🌱 I’m currently learning Django / MongoDB  
+- 🌱 I’m currently learning Ruby 
   
 
 - ✉️ To reach me [send me a quick mail](mailto:randyharish736@gmail.com)  
